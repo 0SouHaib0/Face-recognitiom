@@ -1,0 +1,53 @@
+./aligned_img\messi\download (1).png 54 41 168 195
+./aligned_img\messi\download (2).png 36 40 188 231
+./aligned_img\messi\download (4).png 77 63 161 180
+./aligned_img\messi\download.png 118 32 160 91
+./aligned_img\messi\images (1).png 86 37 165 146
+./aligned_img\messi\images (10).png 91 26 134 83
+./aligned_img\messi\images (2).png 54 33 131 143
+./aligned_img\messi\images (3).png 101 39 151 106
+./aligned_img\messi\images (4).png 150 37 220 129
+./aligned_img\messi\images (5).png 43 41 157 190
+./aligned_img\messi\images (6).png 56 43 168 198
+./aligned_img\messi\images (7).png 34 44 136 185
+./aligned_img\messi\images (8).png 110 32 172 118
+./aligned_img\messi\images (9).png 133 34 194 120
+./aligned_img\messi\images.png 104 24 156 89
+./aligned_img\ronaldo\download (1).png 76 47 162 170
+./aligned_img\ronaldo\download (2).png 126 22 176 89
+./aligned_img\ronaldo\download (3).png 143 20 213 116
+./aligned_img\ronaldo\download.png 52 42 149 180
+./aligned_img\ronaldo\images (1).png 124 25 173 92
+./aligned_img\ronaldo\images (10).png 103 25 163 110
+./aligned_img\ronaldo\images (2).png 78 36 150 132
+./aligned_img\ronaldo\images (3).png 110 28 169 103
+./aligned_img\ronaldo\images (4).png 61 44 153 162
+./aligned_img\ronaldo\images (5).png 42 43 124 144
+./aligned_img\ronaldo\images (6).png 31 66 148 225
+./aligned_img\ronaldo\images (7).png 128 17 193 101
+./aligned_img\ronaldo\images (8).png 78 23 170 153
+./aligned_img\ronaldo\images (9).png 120 18 170 89
+./aligned_img\ronaldo\images.png 32 44 163 217
+./aligned_img\souhaib\WIN_20220801_20_05_23_Pro.png 457 106 801 554
+./aligned_img\souhaib\WIN_20220801_20_05_24_Pro (2).png 444 102 796 556
+./aligned_img\souhaib\WIN_20220801_20_05_24_Pro.png 449 102 799 555
+./aligned_img\souhaib\WIN_20220801_20_05_25_Pro.png 445 103 792 546
+./aligned_img\souhaib\WIN_20220801_20_05_28_Pro.png 435 96 777 543
+./aligned_img\souhaib\WIN_20220801_20_05_29_Pro.png 436 98 778 546
+./aligned_img\souhaib\WIN_20220801_20_05_30_Pro.png 446 99 797 553
+./aligned_img\souhaib\WIN_20220801_20_05_31_Pro.png 447 98 800 565
+./aligned_img\souhaib\WIN_20220801_20_05_32_Pro (2).png 417 102 775 563
+./aligned_img\souhaib\WIN_20220801_20_05_32_Pro.png 428 118 781 554
+./aligned_img\souhaib\WIN_20220801_20_05_33_Pro (2).png 438 104 807 614
+./aligned_img\souhaib\WIN_20220801_20_05_33_Pro.png 409 101 783 602
+./aligned_img\souhaib\WIN_20220801_20_05_34_Pro (2).png 465 127 817 601
+./aligned_img\souhaib\WIN_20220801_20_05_34_Pro.png 469 116 820 586
+./aligned_img\souhaib\WIN_20220801_20_05_35_Pro (2).png 410 116 777 591
+./aligned_img\souhaib\WIN_20220801_20_05_35_Pro.png 451 126 809 610
+./aligned_img\souhaib\WIN_20220801_20_05_36_Pro (2).png 404 109 769 579
+./aligned_img\souhaib\WIN_20220801_20_05_36_Pro.png 422 120 779 591
+./aligned_img\souhaib\WIN_20220801_20_05_37_Pro.png 435 111 794 589
+./aligned_img\souhaib\WIN_20220801_20_05_38_Pro.png 445 104 788 560
+./aligned_img\souhaib\WIN_20220801_20_05_39_Pro (2).png 444 99 797 577
+./aligned_img\souhaib\WIN_20220801_20_05_39_Pro.png 438 97 798 580
+./aligned_img\souhaib\WIN_20220801_20_05_40_Pro.png 462 109 803 546
